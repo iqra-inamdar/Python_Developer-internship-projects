@@ -1,0 +1,22 @@
+[
+    {
+        "task": "homework in complete",
+        "completed": false
+    },
+    {
+        "task": "i am compelted my word.",
+        "completed": false
+    },
+    {
+        "task": "i am completed my home work",
+        "completed": true
+    },
+    {
+        "task": "wake up in early morning 7:00 AM",
+        "completed": true
+    },
+    {
+        "task": "11: 00 Am go college.",
+        "completed": false
+    }
+]
