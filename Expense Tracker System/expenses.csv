@@ -1,3 +1,5 @@
+# Sample output data for Expense Tracker System
+
 Date,Category,Description,Amount
 01-09-2026,food,Lunch,500.0
 01-09-2026,food,dinner,800.0
