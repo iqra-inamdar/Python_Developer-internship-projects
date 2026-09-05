@@ -25,5 +25,4 @@ A command-line To-Do List application that allows users to manage their daily ta
 - Exception handling
   
 ### Run the Project
-```bash
 python todo.py
